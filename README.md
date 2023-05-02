@@ -5,7 +5,8 @@ Online Food Ordering System Website using basic JavaScript , React , HTML & CSS 
 ## Screenshots
 ![Screenshot (14)](https://user-images.githubusercontent.com/113832827/235585305-14c3f76f-173f-4980-9788-0ea9b7aa9718.png)
 
-Find how the project Click in [`Food Order`](https://charlie829030.github.io/Food-Order/)
+
+## Find how the project Click in [`Food Order`](https://charlie829030.github.io/Food-Order/)
 
 ## Technologies Used
 
